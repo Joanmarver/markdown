@@ -8,7 +8,9 @@ public class HolaMundo {
     public static void main(String[] args) {
         System.out.println("¡Hola, mundo!");
     }
-}```
+}
+
+```
 
 1. Primer elemento lista ordenada
 2. Segundo elemento lista ordenada
